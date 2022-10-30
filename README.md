@@ -1,15 +1,9 @@
-<<<<<<< HEAD
+
 # vue-pokeapi
 
-This template should help get you started developing with Vue 3 in Vite.
+Pour améliorer ce projet, je commencerai par terminer le système de pagination.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Je structurerai également mon code pour qu'il soit plus propre et plus facile à lire au premier coup d'oeil.
 
 ## Project Setup
 
@@ -28,6 +22,3 @@ npm run dev
 ```sh
 npm run build
 ```
-=======
-# vue-pokeapi-observia
->>>>>>> c7c8eb13819a87e378a03361301700eaedb25af2
