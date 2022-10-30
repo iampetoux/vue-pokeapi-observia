@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-pokeapi
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# vue-pokeapi-observia
+>>>>>>> c7c8eb13819a87e378a03361301700eaedb25af2
